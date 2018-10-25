@@ -10,3 +10,4 @@ so we then add the responsible libraries for these specific files by using pip.
 2. pip install lxml
 3. pip install html5lib
 4. pip install BeautifulSoup4
+5. pip install xlrd
